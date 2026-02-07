@@ -2,7 +2,7 @@ Hi, I'm Dhruv
 
 I'm a BTech CSE student at VIT Vellore, passionate about full-stack development, web technologies, and solving real-world problems through code.
 
-I aim to become a professional-level full-stack developer and gain international experience in the tech industry.
+I aim to become a professional-level software and gain international experience in the tech industry.
 
 
 SKILLS :
